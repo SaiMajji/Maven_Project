@@ -1,2 +1,0 @@
-Learning DevOps is Easy.
-aws/azure is mandatory for DevOps Engineer.
